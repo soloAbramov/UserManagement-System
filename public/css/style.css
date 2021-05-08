@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Oxygen:wght@700&family=PT+Sans:wght@400;700&display=swap");
+
+.navbar-brand {
+  font-size: 1.4em;
+  font-family: "PT Sans", sans-serif;
+  font-weight: 700;
+}
+
+.nav-item {
+  font-family: "PT Sans", sans-serif;
+}
+
+.form-search {
+  font-family: "PT Sans", sans-serif;
+}
+
+.btn-search {
+  color: black;
+  background-color: #efdd42;
+}
+
+.bg-main {
+  background-color: #3c8dbc;
+}
+
+.btn-add {
+  color: white;
+  background-color: #00af5a;
+}
+
+.btn-v {
+  color: white;
+  background-color: #00af5a;
+}
+
+.btn-e {
+  color: white;
+  background-color: #3c8dbc;
+}
+
+.btn-d {
+  color: white;
+  background-color: #e23232;
+}
+
+.header h1 {
+  font-family: "Oxygen", sans-serif;
+  font-weight: 700;
+  font-size: 2.1em;
+}
+
+.table {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 700;
+}
