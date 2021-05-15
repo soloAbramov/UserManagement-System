@@ -14,33 +14,28 @@
   font-family: "PT Sans", sans-serif;
 }
 
-.btn-search {
-  color: black;
-  background-color: #efdd42;
-}
-
 .bg-main {
-  background-color: #3c8dbc;
+  background-color: #6d7aff;
 }
 
 .btn-add {
   color: white;
-  background-color: #00af5a;
+  background-color: #05cd7d;
 }
 
 .btn-v {
   color: white;
-  background-color: #00af5a;
+  background-color: #05cd7d;
 }
 
 .btn-e {
   color: white;
-  background-color: #3c8dbc;
+  background-color: #6d7aff;
 }
 
 .btn-d {
   color: white;
-  background-color: #e23232;
+  background-color: #fe6666;
 }
 
 .header h1 {
